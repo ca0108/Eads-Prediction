@@ -1,4 +1,4 @@
-# Epp-Prediction
+# Eads-Prediction
 Machine learning code for "Machine learning decoding of symmetry-breaking band structures in nanoalloy catalysts for kinetically favorable Li-S batteries"
 
 ## Installation
